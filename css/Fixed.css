@@ -1,0 +1,38 @@
+body
+{
+    background-color:yellow;
+}
+header
+{
+    background-color:red;
+}
+nav 
+{
+    background-color:orange;
+}
+a
+{
+    text-decoration:none;
+}
+
+#side
+{
+    width:300px;
+    height:400px;
+    background-color:green;
+    float:left;
+}
+#main
+{
+    width:650px;
+    height: 400px;
+    background-color:purple;
+    float:right;
+}
+footer
+{
+    width:1350px;
+    height:80px;
+    background-color:blue;
+    clear:both;
+}
